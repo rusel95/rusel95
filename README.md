@@ -1,38 +1,28 @@
-### Hey, I'm Ruslan 👋
+## Hey, I'm Ruslan 👋
 
-Lead iOS Engineer at [EPAM](https://www.epam.com) · Lviv 🇺🇦 & Remote
+Lead iOS Engineer at [EPAM](https://www.epam.com) · Lviv 🇺🇦
 
-I build iOS apps and lately have been deep into making AI coding assistants actually useful for Swift developers.
-
----
-
-#### 🚀 Featured Project
-
-**[ios-agent-skills](https://github.com/rusel95/ios-agent-skills)** — Production-tested Agent Skills for Claude Code, Codex, and 40+ AI coding tools.
-
-8 enterprise-grade skills covering the full iOS stack:
-
-| Skill | What it does |
-|-------|-------------|
-| `swift-concurrency` | Actors, async/await, TaskGroup, Swift 6 migration |
-| `swiftui-mvvm-architecture` | ViewModels, @Observable, NavigationStack |
-| `mvvm-uikit-architecture` | Combine bindings, DiffableDataSource, retain cycles |
-| `tca-swiftui-architecture` | Modern TCA 1.7+ patterns, @Reducer, TestStore |
-| `viper-uikit-architecture` | VIPER modules, Router navigation, DI |
-| `ios-testing` | XCTest, Swift Testing, async tests, snapshot testing |
-| `gcd-operationqueue` | Deadlocks, thread safety, TSan, lock selection |
-| `ios-security-audit` | Keychain, ATS, cert pinning, OWASP/MASVS |
-
-Benchmarked across Claude Sonnet, GPT-5.4, and Gemini 3.1 Pro with blind A/B evaluations.
-
-```bash
-# Install all skills in one command
-npx skills add https://github.com/rusel95/ios-agent-skills.git --skill '*' --copy -y
-```
+10 years building iOS apps — from UIKit & Objective-C era to SwiftUI & Swift Concurrency. Now focused on making AI coding tools actually useful for mobile developers.
 
 ---
 
-#### 📫 Get in touch
+### What I'm working on
+
+🔧 **[ios-agent-skills](https://github.com/rusel95/ios-agent-skills)** — 8 production-tested Agent Skills for Claude Code, Codex, and 40+ AI coding tools. Covers SwiftUI MVVM, UIKit MVVM, VIPER, TCA, Swift Concurrency, GCD, Testing & Security Audit. Each skill benchmarked with discriminating assertions across multiple LLMs.
+
+📱 **Indie Apps** — building and shipping my own apps on the App Store. Currently working on a batch photo compression tool and a white noise app.
+
+🎤 **AI + Mobile** — leading an initiative at EPAM to bring AI agent skills into the Mobile department. Speaking at internal and external events about spec-driven development with AI.
+
+---
+
+### Tech I care about
+
+`Swift` · `SwiftUI` · `UIKit` · `Combine` · `Swift Concurrency` · `TCA` · `VIPER` · `XCTest` · `Swift Testing`
+
+---
+
+### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rusel95)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rusel95)
