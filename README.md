@@ -10,9 +10,9 @@ Lead iOS Engineer at [EPAM](https://www.epam.com) · Lviv 🇺🇦
 
 🔧 **[ios-agent-skills](https://github.com/rusel95/ios-agent-skills)** — 8 production-tested Agent Skills for Claude Code, Codex, and 40+ AI coding tools. Covers SwiftUI MVVM, UIKit MVVM, VIPER, TCA, Swift Concurrency, GCD, Testing & Security Audit. Each skill benchmarked with discriminating assertions across multiple LLMs.
 
-📱 **Indie Apps** — building and shipping my own apps on the App Store. Currently working on a batch photo compression tool and a white noise app.
+📱 **Indie Apps** — building and shipping my own apps on the App Store. Currently working on a batch photo compression tool and [Hush — White Noise & Sleep](https://apps.apple.com/us/app/hush-white-noise-sleep/id6449785515).
 
-🎤 **AI + Mobile** — leading an initiative at EPAM to bring AI agent skills into the Mobile department. Speaking at internal and external events about spec-driven development with AI.
+🎙️ **AI + Mobile** — leading an initiative at EPAM to bring AI agent skills into the Mobile department. Speaking at internal and external events about spec-driven development with AI.
 
 ---
 
@@ -26,4 +26,3 @@ Lead iOS Engineer at [EPAM](https://www.epam.com) · Lviv 🇺🇦
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rusel95)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rusel95)
-
