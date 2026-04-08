@@ -8,6 +8,8 @@ Lead iOS Engineer at [EPAM](https://www.epam.com) · Lviv 🇺🇦
 
 ### What I'm working on
 
+🧠 **[mempalace](https://github.com/rusel95/mempalace)** — Contributing to MemPalace, an open-source AI memory system. Built the `sync` command for incremental re-mining (stale drawer detection via content hashing), fixed ChromaDB HNSW corruption recovery, and added Claude.ai chat export normalizer. 3 PRs merged/open on upstream.
+
 🔧 **[ios-agent-skills](https://github.com/rusel95/ios-agent-skills)** — 8 production-tested Agent Skills for Claude Code, Codex, and 40+ AI coding tools. Covers SwiftUI MVVM, UIKit MVVM, VIPER, TCA, Swift Concurrency, GCD, Testing & Security Audit. Each skill benchmarked with discriminating assertions across multiple LLMs.
 
 📱 **Indie Apps** — building and shipping my own apps on the App Store. Currently working on a batch photo compression tool and [Hush — White Noise & Sleep](https://apps.apple.com/us/app/hush-white-noise-sleep/id6449785515).
@@ -18,7 +20,7 @@ Lead iOS Engineer at [EPAM](https://www.epam.com) · Lviv 🇺🇦
 
 ### Tech I care about
 
-`Swift` · `SwiftUI` · `UIKit` · `Combine` · `Swift Concurrency` · `TCA` · `VIPER` · `XCTest` · `Swift Testing`
+`Swift` · `SwiftUI` · `UIKit` · `Combine` · `Swift Concurrency` · `TCA` · `VIPER` · `XCTest` · `Swift Testing` · `Python` · `ChromaDB` · `Context Engineering`
 
 ---
 
