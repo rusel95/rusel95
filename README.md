@@ -15,6 +15,8 @@ Lead iOS Engineer at [EPAM](https://www.epam.com) · Lviv 🇺🇦
 
 🔧 **[ios-agent-skills](https://github.com/rusel95/ios-agent-skills)** — 11 production-tested Agent Skills for Claude Code, Codex, and 40+ AI coding tools. Covers SwiftUI MVVM, UIKit MVVM, VIPER, TCA, Swift Concurrency, GCD, Testing, Security Audit, Accessibility, and Localization. Benchmarked across 260+ scenarios with 850+ discriminating assertions. The exact engineering system used to build and ship my own apps!
 
+🧪 **[agent-swift-XCTest](https://github.com/reportportal/agent-swift-XCTest)** — Core contributor & maintainer of [ReportPortal](https://reportportal.io)'s official Swift XCTest agent. Modernized architecture with `async/await` over ReportPortal v2 API, multi-process parallel worker launch merging (`RP_LAUNCH_UUID` / Info.plist), launch-gate synchronization, and real-device cloud farm (SauceLabs) orchestration.
+
 🚀 **[ios-aso-copilot](https://github.com/rusel95/ios-aso-copilot)** — Free, open-source agent-native ASO engine. Features live Apple Search Hints (`MZSearchHints.woa`), multi-market rank tracking across 25+ storefronts, 21-day hypothesis ledgers, anti-regression guards, and Apple Ads break-even modeling. Battle-tested in production across 77+ hypotheses on Compresso and Hush.
 
 🧠 **[mempalace](https://github.com/rusel95/mempalace)** — Contributing to MemPalace, an open-source AI memory system. Built the `sync` command for incremental re-mining (stale drawer detection via content hashing), fixed ChromaDB HNSW corruption recovery, and added Claude.ai chat export normalizer. 3 PRs merged/open on upstream.
@@ -25,7 +27,7 @@ Lead iOS Engineer at [EPAM](https://www.epam.com) · Lviv 🇺🇦
 
 ### Tech I care about
 
-`Swift` · `SwiftUI` · `UIKit` · `Combine` · `Swift Concurrency` · `TCA` · `VIPER` · `XCTest` · `Swift Testing` · `AVFoundation` · `Python` · `ChromaDB` · `Context Engineering`
+`Swift` · `SwiftUI` · `UIKit` · `Combine` · `Swift Concurrency` · `TCA` · `VIPER` · `XCTest` · `Swift Testing` · `AVFoundation` · `ReportPortal` · `Python` · `ChromaDB` · `Context Engineering`
 
 ---
 
