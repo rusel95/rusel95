@@ -2,7 +2,7 @@
 
 Lead iOS Engineer at [EPAM](https://www.epam.com) · Lviv 🇺🇦
 
-10 years building iOS apps — from the UIKit & Objective-C era to SwiftUI & Swift Concurrency. Focused on shipping indie products, contributing to open-source developer tooling, and making AI coding agents genuinely reliable for mobile engineers.
+10 years building iOS apps — from UIKit & Objective-C to SwiftUI & Swift Concurrency. Focused on shipping indie products, maintaining open-source developer tooling, and making AI coding agents genuinely reliable for mobile engineers.
 
 ---
 
@@ -10,7 +10,7 @@ Lead iOS Engineer at [EPAM](https://www.epam.com) · Lviv 🇺🇦
 
 Building and operating consumer iOS products on the App Store:
 
-- **[Compresso: Shrink Video Photo](https://apps.apple.com/us/app/compresso-shrink-video-photo/id6790447224)** — Privacy-first, 100% on-device photo & video compression (HEIC/HEVC) for iPhone with month-by-month swipe cleanup, zero cloud telemetry, and 34+ localized languages. Architected with [ios-agent-skills](https://github.com/rusel95/ios-agent-skills) and grown with [ios-aso-copilot](https://github.com/rusel95/ios-aso-copilot).
+- **[Compresso: Shrink Video Photo](https://apps.apple.com/us/app/compresso-shrink-video-photo/id6790447224)** — Privacy-first, 100% on-device photo & video compression (HEIC/HEVC) for iPhone with month-by-month swipe cleanup, zero cloud telemetry, and 34+ localized languages. Built using [ios-agent-skills](https://github.com/rusel95/ios-agent-skills) and grown with [ios-aso-copilot](https://github.com/rusel95/ios-aso-copilot).
 - **[Hush: White Noise & Sleep Aid](https://apps.apple.com/us/app/hush-white-noise-sleep-aid/id6449785515)** — Focused ambient sound mixer with 30+ layered audio loops, background playback, lock-screen controls, smart fade-out timer, and 49 localized languages.
 - 🍎 *Explore all releases on my [Apple Developer Profile](https://apps.apple.com/us/developer/ruslan-popesku/id1627013326).*
 
@@ -20,7 +20,7 @@ Building and operating consumer iOS products on the App Store:
 
 Creator and maintainer of open-source tools for iOS engineers & AI agents:
 
-- 🔧 **[ios-agent-skills](https://github.com/rusel95/ios-agent-skills)** — 11 production-tested Agent Skills for Claude Code (`claude plugin add rusel95/ios-agent-skills`), Codex, and 40+ AI tools (`npx skills add rusel95/ios-agent-skills`). Covers SwiftUI MVVM, UIKit MVVM, VIPER, TCA, Swift Concurrency, GCD, Testing, Security Audit, Accessibility, and Localization. Benchmarked across 260+ scenarios with 850+ discriminating assertions.
+- 🔧 **[ios-agent-skills](https://github.com/rusel95/ios-agent-skills)** — 11 production-tested Agent Skills for Claude Code (`claude plugin add rusel95/ios-agent-skills`), Codex, and 40+ AI tools (`npx skills add rusel95/ios-agent-skills`). Covers SwiftUI MVVM, UIKit MVVM, VIPER, TCA, Swift Concurrency, GCD, Testing, Security Audit, Accessibility, and Localization. Benchmarked across 260+ scenarios with 850+ discriminating assertions. The exact engineering foundation used to ship my own apps!
 - 🚀 **[ios-aso-copilot](https://github.com/rusel95/ios-aso-copilot)** — Free, open-source agent-native ASO engine. Features live Apple Search Hints (`MZSearchHints.woa`), multi-market rank tracking across 25+ storefronts, 21-day hypothesis ledgers, anti-regression guards, and Apple Search Ads break-even unit economics. Battle-tested across 77+ live hypotheses on Compresso and Hush.
 
 ---
@@ -36,14 +36,21 @@ Active contributor and maintainer across the Swift, AI, and testing ecosystems:
 
 ---
 
-### 🎙️ AI + Mobile Leadership
+### 💼 Engineering Leadership & Experience
 
-- Leading an initiative at EPAM to integrate AI agent skills and spec-driven workflows into the Mobile department.
-- Speaking at internal and external tech events on spec-driven development, deterministic evaluation of coding agents, and mobile architecture patterns.
+- **EPAM Systems** *(2021 — present)* · Lead iOS Engineer
+  - **Disney+ Hotstar:** Technical Team Lead on a 600M+ user streaming platform with 200+ engineers; led feature delivery with 75% unit-test and 100% UI automation coverage.
+  - **Thomson Reuters:** Senior iOS Engineer on a flagship news product serving 2M+ active users.
+  - **Planoly:** Senior iOS Engineer on social media planning product with 50K+ subscribers.
+  - **AI Department Champion:** Leading mobile agent-skill initiatives at EPAM; speaking on spec-driven development and deterministic coding agent evaluation.
+- **Nullgravity** *(2019 — 2021)* · iOS Engineer
+  - Shipped AR retail experience; reduced legacy clean build time by 60% (~20 min saved per developer daily).
+- **Yalantis** *(2018 — 2019)* · iOS Engineer
+  - Delivered commercial retail & social apps with complex third-party hardware/BLE and service integrations.
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tech Stack & Craft
 
 `Swift` · `SwiftUI` · `UIKit` · `Combine` · `Swift Concurrency` · `AVFoundation` · `TCA` · `VIPER` · `XCTest` · `Swift Testing` · `ReportPortal` · `Python` · `ChromaDB` · `Context Engineering`
 
@@ -54,4 +61,4 @@ Active contributor and maintainer across the Swift, AI, and testing ecosystems:
 [![App Store](https://img.shields.io/badge/App_Store-Developer_Page-black?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/us/developer/ruslan-popesku/id1627013326)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rusel95)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rusel95)
-[![Website](https://img.shields.io/badge/Portfolio-rusel95.github.io-blue?style=flat)](https://rusel95.github.io)
+[![Email](https://img.shields.io/badge/Email-ruslanpopesku95@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ruslanpopesku95@gmail.com)
