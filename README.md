@@ -22,7 +22,6 @@ Creator and maintainer of open-source tools for iOS engineers & AI agents:
 
 - 🔧 **[ios-agent-skills](https://github.com/rusel95/ios-agent-skills)** — 11 production-tested Agent Skills for Claude Code (`claude plugin add rusel95/ios-agent-skills`), Codex, and 40+ AI tools (`npx skills add rusel95/ios-agent-skills`). Covers SwiftUI MVVM, UIKit MVVM, VIPER, TCA, Swift Concurrency, GCD, Testing, Security Audit, Accessibility, and Localization. Benchmarked across 260+ scenarios with 850+ discriminating assertions.
 - 🚀 **[ios-aso-copilot](https://github.com/rusel95/ios-aso-copilot)** — Free, open-source agent-native ASO engine. Features live Apple Search Hints (`MZSearchHints.woa`), multi-market rank tracking across 25+ storefronts, 21-day hypothesis ledgers, anti-regression guards, and Apple Search Ads break-even unit economics. Battle-tested across 77+ live hypotheses on Compresso and Hush.
-- 🧪 **[Offline-AI-ML-Playground](https://github.com/rusel95/Offline-AI-ML-Playground)** — On-device SwiftUI testbed for running and evaluating open-source ML/LLM models locally on Apple platforms via MLX Swift with zero network dependency.
 
 ---
 
@@ -46,7 +45,7 @@ Active contributor and maintainer across the Swift, AI, and testing ecosystems:
 
 ### 💻 Tech Stack
 
-`Swift` · `SwiftUI` · `UIKit` · `Combine` · `Swift Concurrency` · `AVFoundation` · `TCA` · `VIPER` · `XCTest` · `Swift Testing` · `ReportPortal` · `MLX Swift` · `Python` · `ChromaDB` · `Context Engineering`
+`Swift` · `SwiftUI` · `UIKit` · `Combine` · `Swift Concurrency` · `AVFoundation` · `TCA` · `VIPER` · `XCTest` · `Swift Testing` · `ReportPortal` · `Python` · `ChromaDB` · `Context Engineering`
 
 ---
 
