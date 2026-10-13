@@ -2,7 +2,38 @@
 
 Lead iOS Engineer at [EPAM](https://www.epam.com) · Lviv 🇺🇦
 
-10 years building iOS apps — from UIKit & Objective-C to SwiftUI & Swift Concurrency. Focused on shipping indie products, maintaining open-source developer tooling, and making AI coding agents genuinely reliable for mobile engineers.
+10 years building iOS apps — from UIKit & Objective-C to SwiftUI & Swift Concurrency. Focused on shipping indie products, contributing to open-source AI tooling & developer infrastructure, and making autonomous coding agents reliable for engineers.
+
+---
+
+### 🧠 AI Open Source Contributions (Featured)
+
+Active core contributor to memory architectures, semantic retrieval, and developer infrastructure for autonomous AI coding agents:
+
+#### 🔍 [grepai](https://github.com/yoanbernabeu/grepai)
+> **What it is:** 100% local semantic code search and AST call graph engine designed specifically for AI coding agents. Enables agents to navigate, index, and reason about codebases without uploading proprietary source code to cloud APIs.
+
+- **Index Reliability & Recovery:** Built atomic index serialization and automatic recovery mechanisms that restore state when interrupted or corrupted ([PR #269](https://github.com/yoanbernabeu/grepai/pull/269)).
+- **Worktree Discovery Controls:** Added configuration options to control linked git worktree discovery, preventing redundant index bloat in multi-branch workflows ([PR #270](https://github.com/yoanbernabeu/grepai/pull/270)).
+- **Agent Skill & Search Hardening:** Authored recall-safe hybrid search combos and hardened tool-choice descriptions for agent prompt templates and skills ([PR #272](https://github.com/yoanbernabeu/grepai/pull/272)).
+
+#### 🏛️ [MemPalace](https://github.com/MemPalace/mempalace)
+> **What it is:** Open-source long-term memory and context retention system for AI coding agents. Ingests architectural decisions, session history, and project learnings into structured "drawers" using vector retrieval and MCP.
+
+- **Incremental Re-Mining (`sync`):** Built the `sync` command with `content_hash` tracking in drawer metadata, enabling atomic re-mining only for modified files and avoiding expensive full-index sweeps ([PR #1343](https://github.com/MemPalace/mempalace/pull/1343), [PR #1344](https://github.com/MemPalace/mempalace/pull/1344)).
+- **Vector Store Corruption Repair:** Engineered safe repair routines surviving ChromaDB HNSW vector index corruption during repair cycles.
+- **Claude.ai Export Normalizer:** Added structured conversation normalizer to ingest exported Claude chat logs directly into memory drawers.
+- **Hook Decoupling & Context Guard:** Decoupled the `precompact` hook toggle from `save_interval` via config & env flags, fixing context-exhaustion blocks during long agent sessions ([PR #1345](https://github.com/MemPalace/mempalace/pull/1345), [PR #1346](https://github.com/MemPalace/mempalace/pull/1346)).
+- **MCP Tooling:** Authored the `mempalace_sync_status` MCP tool and memory freshness hooks ([PR #1347](https://github.com/MemPalace/mempalace/pull/1347)).
+
+---
+
+### 🛠️ Open Source Tooling & Frameworks
+
+Creator and maintainer of open-source tools for iOS engineers & AI agents:
+
+- 🔧 **[ios-agent-skills](https://github.com/rusel95/ios-agent-skills)** — 11 production-tested Agent Skills for Claude Code (`claude plugin add rusel95/ios-agent-skills`), Codex, and 40+ AI tools (`npx skills add rusel95/ios-agent-skills`). Covers SwiftUI MVVM, UIKit MVVM, VIPER, TCA, Swift Concurrency, GCD, Testing, Security Audit, Accessibility, and Localization. Benchmarked across 260+ scenarios with 850+ discriminating assertions. The exact engineering foundation used to ship my own apps!
+- 🚀 **[ios-aso-copilot](https://github.com/rusel95/ios-aso-copilot)** — Free, open-source agent-native ASO engine. Features live Apple Search Hints (`MZSearchHints.woa`), multi-market rank tracking across 25+ storefronts, 21-day hypothesis ledgers, anti-regression guards, and Apple Search Ads break-even unit economics. Battle-tested across 77+ live hypotheses on Compresso and Hush.
 
 ---
 
@@ -16,23 +47,10 @@ Building and operating consumer iOS products on the App Store:
 
 ---
 
-### 🛠️ Open Source Tooling & Frameworks
-
-Creator and maintainer of open-source tools for iOS engineers & AI agents:
-
-- 🔧 **[ios-agent-skills](https://github.com/rusel95/ios-agent-skills)** — 11 production-tested Agent Skills for Claude Code (`claude plugin add rusel95/ios-agent-skills`), Codex, and 40+ AI tools (`npx skills add rusel95/ios-agent-skills`). Covers SwiftUI MVVM, UIKit MVVM, VIPER, TCA, Swift Concurrency, GCD, Testing, Security Audit, Accessibility, and Localization. Benchmarked across 260+ scenarios with 850+ discriminating assertions. The exact engineering foundation used to ship my own apps!
-- 🚀 **[ios-aso-copilot](https://github.com/rusel95/ios-aso-copilot)** — Free, open-source agent-native ASO engine. Features live Apple Search Hints (`MZSearchHints.woa`), multi-market rank tracking across 25+ storefronts, 21-day hypothesis ledgers, anti-regression guards, and Apple Search Ads break-even unit economics. Battle-tested across 77+ live hypotheses on Compresso and Hush.
-
----
-
-### 🤝 Open Source Contributions & Maintainership
-
-Active contributor and maintainer across the Swift, AI, and testing ecosystems:
+### 🧪 Swift & Testing Open Source Contributions
 
 - 🧪 **[agent-swift-XCTest](https://github.com/reportportal/agent-swift-XCTest)** *(Core Contributor & Maintainer)* — Official Swift XCTest agent for [ReportPortal.io](https://reportportal.io). Modernized architecture with `async/await` over ReportPortal v2 API, multi-process parallel worker launch merging (`RP_LAUNCH_UUID` / Info.plist), launch-gate synchronization, and real-device cloud farm (SauceLabs) orchestration.
 - 🎬 **[MediaToolSwift](https://github.com/starkdmi/MediaToolSwift)** *(Contributor)* — Merged upstream [PR #13](https://github.com/starkdmi/MediaToolSwift/pull/13) fixing native iOS `AVAssetWriterInput` rejection of DCI-P3 wide-gamut video transcoding. Implemented single-encode AVFoundation compositor conversion to P3-D65 SDR (BT.709) and BT.2020 HDR (10-bit HLG/PQ) with orientation handling and comprehensive 83-test verification suite.
-- 🔍 **[grepai](https://github.com/yoanbernabeu/grepai)** *(Contributor)* — Merged upstream PRs ([#269](https://github.com/yoanbernabeu/grepai/pull/269), [#270](https://github.com/yoanbernabeu/grepai/pull/270), [#272](https://github.com/yoanbernabeu/grepai/pull/272)) for local semantic code search: atomic index writing with corruption recovery, worktree discovery controls, and recall-safe search combo for agent skills.
-- 🧠 **[mempalace](https://github.com/MemPalace/mempalace)** *(Contributor)* — AI memory system for coding agents. Built incremental re-mining via `sync` command with content-hash tracking, ChromaDB HNSW corruption recovery, Claude export normalizer, independent precompact and configurable save intervals (PRs [#1343–#1347](https://github.com/MemPalace/mempalace/pulls/rusel95)).
 
 ---
 
