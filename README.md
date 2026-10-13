@@ -2,14 +2,14 @@
 
 **Lead Software Engineer & AI Champion** at [EPAM Systems](https://www.epam.com) · **AI Solution Architect** · Lviv 🇺🇦
 
-[![EPAM AI Champion](https://img.shields.io/badge/EPAM-AI%20Champion-00A3E0?style=flat&logo=epam&logoColor=white)](https://leap.epam.com)
-[![SAS Graduate](https://img.shields.io/badge/Solution%20Architecture%20School-Graduated%2087%25-059669?style=flat)](https://www.epam.com)
-[![EASE Core Architect](https://img.shields.io/badge/EASE%20Agent%20Skills-%231%20Maintainer%20(919%20commits)-7C3AED?style=flat)](https://git.epam.com)
+[![EPAM AI Champion](https://img.shields.io/badge/EPAM-AI%20Champion-00A3E0?style=flat&logo=epam&logoColor=white)](https://www.epam.com)
+[![Solution Architecture](https://img.shields.io/badge/Solution%20Architecture%20School-Graduate-059669?style=flat)](https://www.epam.com)
+[![Enterprise Agent Skills](https://img.shields.io/badge/Enterprise%20Agent%20Skills-%231%20Maintainer%20(900%2B%20commits)-7C3AED?style=flat)](https://github.com/rusel95/ios-agent-skills)
 [![App Store Developer](https://img.shields.io/badge/App%20Store-Shipped%20Indie%20Apps-000000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/us/developer/ruslan-popesku/id1627013326)
 
 10+ years engineering high-scale digital systems — from architecting platforms at **600M+ user scale (Disney+ Hotstar)** to driving **Enterprise AI Adoption** and building **autonomous multi-agent coding factories**.
 
-Currently coordinating the **[Idea-to-Grow Mobile HyperFactory](https://leap.epam.com)** (Team 1566-EPM-AQCC in EPAM AI/RUN Mission 2026), leading the **EASE Agent Skills** platform (#1 core maintainer with 919 commits, 82 production skills), and consulting Tier-1 enterprise clients (**Philip Morris International**) on multi-agent architectures, Model Context Protocol (MCP), and tokenomics. Passionate about shipping indie products with privacy-first on-device AI, maintaining core open-source developer infrastructure, and making autonomous coding agents genuinely deterministic for engineering teams.
+Currently coordinating the **Idea-to-Grow Mobile HyperFactory** (Team 1566-EPM-AQCC in EPAM AI/RUN Mission 2026), leading the **EASE Agent Skills** platform (#1 core maintainer with 919 commits, 82 production skills), and consulting Tier-1 enterprise clients (**Philip Morris International**) on multi-agent architectures, Model Context Protocol (MCP), and tokenomics. Passionate about shipping indie products with privacy-first on-device AI, maintaining core open-source developer infrastructure, and making autonomous coding agents genuinely deterministic for engineering teams.
 
 ---
 
@@ -67,7 +67,7 @@ Building and operating consumer iOS products on the App Store with privacy-by-de
 - **EPAM Systems** *(2021 — present)* · **Lead Software Engineer & AI Champion · Solution Architect**
   - **Idea-to-Grow Mobile HyperFactory:** Contact Point & Lead Coordinator for Team `1566-EPM-AQCC` in the flagship **EPAM AI/RUN Mission 2026** programme. Packaged end-to-end agentic workflows from idea validation to App Store release (50 locales) and ASO/ASA growth loops; increased commit velocity 4x (~50 to 200+/mo) with 100% crash-free stability.
   - **KIRO AI Adoption Expert (Consultant):** Direct enterprise AI adoption, multi-agent workflows, Model Context Protocol (MCP) tool integration, and tokenomics consulting for Philip Morris International (`PMIS-DRS`).
-  - **EPAM EASE Agent Skills:** Founder & #1 Maintainer (919 commits) of the enterprise agent skill standard (`git.epam.com/epm-ease/research/agent-skills`), benchmarked across 150M+ tokens with +30% verified correctness improvement.
+  - **EPAM EASE Agent Skills:** Founder & #1 Maintainer (919 commits) of the enterprise agent skill standard (EASE Agent Skills initiative), benchmarked across 150M+ tokens with +30% verified correctness improvement.
   - **Disney+ Hotstar:** Technical Team Lead on a 600M+ user streaming platform with 200+ engineers; led feature delivery with 75% unit-test and 100% UI automation coverage.
   - **Thomson Reuters:** Senior iOS Engineer on a flagship news product serving 2M+ active users.
   - **Planoly:** Senior iOS Engineer on social media planning product with 50K+ subscribers.
