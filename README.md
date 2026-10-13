@@ -22,9 +22,3 @@
 | 🧪 **[agent-swift-XCTest](https://github.com/reportportal/agent-swift-XCTest)** | Core Maintainer · Official ReportPortal Swift agent; `async/await` v2 API, -75% test time | Swift, XCTest, ReportPortal v2 |
 | 📱 **[Compresso](https://apps.apple.com/us/app/compresso-shrink-video-photo/id6790447224)** & **[Hush](https://apps.apple.com/us/app/hush-white-noise-sleep-aid/id6449785515)** | Creator & Operator · Privacy-first, 100% on-device iOS apps on App Store (34–49 locales) | SwiftUI, AVFoundation, MLX, On-Device |
 
----
-
-### 💼 Track & Craft
-
-- **Experience:** EPAM Systems (Lead Software Engineer & AI Champion · Solution Architect · Tech Lead at Disney+ Hotstar 600M+) · Nullgravity · Yalantis
-- **Stack:** `Swift` · `SwiftUI` · `Python` · `MCP` · `Agentic AI` · `AVFoundation` · `XCTest` · `ChromaDB` · `Context Engineering`
